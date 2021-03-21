@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450654897571",
+    "project_id": "telemat-cryptoid",
+    "storage_bucket": "telemat-cryptoid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450654897571:android:96ab1dde278f6f8f454616",
+        "android_client_info": {
+          "package_name": "telemat.cryptoid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450654897571-49jlkb2p47tdo4tpogtj474nsm4nuoib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZzdN0ZjXfdz11AmtsXZqq3BULKi9c1dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450654897571-49jlkb2p47tdo4tpogtj474nsm4nuoib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
